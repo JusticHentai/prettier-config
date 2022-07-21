@@ -10,7 +10,7 @@ module.exports = require('@douza/prettier-config')
 ```
 
 In `.prettierignore`
-copy from `'@douza/prettier-config/src/.prettierignore`
+copy from `'@douza/prettier-config/.prettierignore`
 
 ## Info
 
