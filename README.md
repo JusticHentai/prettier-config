@@ -1,5 +1,7 @@
 # Prettier-config
 
+continuous integration prettier config
+
 ## Usage
 
 In `prettier.config.js`
