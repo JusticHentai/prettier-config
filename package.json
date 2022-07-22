@@ -6,6 +6,10 @@
     "prettier",
     "douza"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JusticHentai/prettier-config"
+  },
   "license": "ISC",
   "author": "douza",
   "main": "src/index.js",
