@@ -18,7 +18,7 @@
     "format": "prettier --write ."
   },
   "dependencies": {
-    "@volar/vue-typescript": "^0.38.9",
+    "@volar/vue-typescript": "^0.39.4",
     "prettier-plugin-organize-imports": "^3.0.0",
     "prettier-plugin-packagejson": "^2.2.18"
   },
