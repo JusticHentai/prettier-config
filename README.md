@@ -2,15 +2,21 @@
 
 continuous integration prettier config
 
+## Install
+
+```bash
+npm i @justichentai/prettier-config
+```
+
 ## Usage
 
 In `prettier.config.js`
 ```js
-module.exports = require('@douza/prettier-config')
+module.exports = require('@justichentai/prettier-config')
 ```
 
 In `.prettierignore`
-copy from `'@douza/prettier-config/src/.prettierignore`
+copy from `'@justichentai/prettier-config/src/.prettierignore`
 
 ## Info
 
