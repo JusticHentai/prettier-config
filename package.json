@@ -1,6 +1,6 @@
 {
   "name": "@justichentai/prettier-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "continuous integration prettier config",
   "keywords": [
     "prettier",
@@ -13,7 +13,7 @@
     "url": "https://github.com/JusticHentai/prettier-config"
   },
   "license": "ISC",
-  "author": "douza",
+  "author": "justichentai",
   "main": "src/index.js",
   "scripts": {
     "format": "prettier --write ."
